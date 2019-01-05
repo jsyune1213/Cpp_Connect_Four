@@ -36,12 +36,6 @@ enum PlayerMode
 	COMPUTER
 };
 
-struct Coord2D
-{
-	int row;
-	int elem;
-};
-
 class Board
 {
 private:
